@@ -36,7 +36,7 @@ import java.util.Scanner;
     	System.out.println("Your current balance: " +Total +"/-");
     }
 }
-public class JAVATASK4 {
+public class JAVATASK3 {
     public static void main(String[] args) 
     {
         MAIN atm = new MAIN();
