@@ -43,7 +43,7 @@ public class JAVATASK1
 			if(!play.equalsIgnoreCase("Y"));
 			{
 			    System.out.println("THANK YOU PLAYING");
-			    System.out.println( "YOUR SCORE-----> + Score");
+			    System.out.println( "YOUR SCORE----->" + Score);
                 break;
 			}
 			
