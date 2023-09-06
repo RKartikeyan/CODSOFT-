@@ -43,7 +43,7 @@ public class JAVATASK4 {
         Scanner sc = new Scanner(System.in);
         while (true) 
         {
-               System.out.print("Welcome! Press ENTER to continue:");
+               System.out.print("AFTER INSERTING YOUR CARD Press ENTER to continue:");
                try 
                {
                    System.in.read();
